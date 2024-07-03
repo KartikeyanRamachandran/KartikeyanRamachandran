@@ -8,9 +8,7 @@
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/KartikeyanRamachandran)
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/karthikeyan-r-2542601b2/)
 
-<h2 >
-<img src="GIF/dossier.gif" width="45px" height="45px" style="vertical-align: middle;" align="center">A little more about me...
-</h2>
+<h2 >A little more about me...</h2>
 
 Name            = Karthikeyan R <br> 
 pronouns        = He | Him | His <br>
