@@ -1,7 +1,11 @@
-## Hi there 👋
+<h1 align="center" style="display: flex; align-items: center;">
+    Hi,<img src="GIF/chatbot.gif" width="50px" height="50px" style="vertical-align: middle;" align="center">I'm Karthikeyan R
+</h1>
+
 
 <!--
 **KartikeyanRamachandran/KartikeyanRamachandran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 Here are some ideas to get you started:
 
@@ -13,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
