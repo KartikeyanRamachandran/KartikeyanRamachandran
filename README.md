@@ -41,5 +41,5 @@ I am passionate about learning new testing methodologies, staying updated with t
 
 -->
 
-** LambdaTest_Selenium101 <br>
-** Selenium_Advanced_LambdaTest <br>
+- LambdaTest_Selenium101 <br>
+- Selenium_Advanced_LambdaTest <br>
