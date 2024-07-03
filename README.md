@@ -12,13 +12,13 @@ _<h1 align="center" style="display: flex; align-items: center;">
     <img src="GIF/dossier.gif" width="45px" height="45px" style="vertical-align: middle;" align="center">A little more about me...
 </h2>
 
-Name            = Karthikeyan
-pronouns        = He | Him | His
-Current Focus   = Automation Testing
+Name            = Karthikeyan <br> 
+pronouns        = He | Him | His <br>
+Current Focus   = Automation Testing <br>
 
-Programming Skills        = [Java, JavaScript]
-Automation Testing Tools  = [Selenium, Rest-Assured]
-Testing Frameworks        = [TestNG, Cucumber]
+Programming Skills        = [Java, JavaScript] <br>
+Automation Testing Tools  = [Selenium, Rest-Assured] <br>
+Testing Frameworks        = [TestNG, Cucumber] <br>
 
 ## **Find Automation Testing Projects for LambdaTest Selenium Certification**
 
