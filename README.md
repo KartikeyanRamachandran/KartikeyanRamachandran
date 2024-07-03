@@ -12,7 +12,7 @@ _<h1 align="center" style="display: flex; align-items: center;">
     <img src="GIF/dossier.gif" width="45px" height="45px" style="vertical-align: middle;" align="center">A little more about me...
 </h2>
 
-Name            = Karthikeyan <br> 
+Name            = Karthikeyan R <br> 
 pronouns        = He | Him | His <br>
 Current Focus   = Automation Testing <br>
 
@@ -22,18 +22,3 @@ Testing Frameworks        = [TestNG, Cucumber] <br>
 
 ## **Find Automation Testing Projects for LambdaTest Selenium Certification**
 
-
-  <!--
-- 🌱 I’m currently learning Appium 
-- 👯 I’m looking to collaborate on **API Automation Testing, UI Testing.**
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
-
-  
-  
-
-_
