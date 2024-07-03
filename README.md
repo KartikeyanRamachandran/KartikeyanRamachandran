@@ -4,6 +4,8 @@
 
 
 - 🔭 I’m currently working on UI and API testing with **Selenium Java and Rest Assured**
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/KartikeyanRamachandran)
+- 📄 Know about my experiences in [Linkedin](https://www.linkedin.com/in/karthikeyan-r-2542601b2/)
   <!--
 - 🌱 I’m currently learning Appium 
 - 👯 I’m looking to collaborate on ...
