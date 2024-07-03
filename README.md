@@ -30,14 +30,16 @@ I am passionate about learning new testing methodologies, staying updated with t
 <br>From this Account, you can find the selenium framework solution for some free certifications offered by LambdaTest. Also, I created few frameworks through which you can practice and learn more about the automation framework. <br>If you have any questions or need clarification on the LambdaTest certification or the framework, please reach me out on LinkedIn.
 </p>
 
+
+
+<h2 align="center" style="display: flex; align-items: center;">Projects & Repository </h2>
+
+## **Find Framework for LambdaTest Selenium Certification**
+
 <!--
 ## **Find Automation Testing Projects for Your Practice**
 
 -->
 
-<h2 align="center" style="display: flex; align-items: center;">Projects & Repo's</h2>
-
-## **Find Framework for LambdaTest Selenium Certification**
-
-1.LambdaTest_Selenium101 <br>
-2.Selenium_Advanced_LambdaTest <br>
+** LambdaTest_Selenium101 <br>
+** Selenium_Advanced_LambdaTest <br>
