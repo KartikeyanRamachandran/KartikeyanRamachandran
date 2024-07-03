@@ -35,7 +35,7 @@ I am passionate about learning new testing methodologies, staying updated with t
 
 -->
 
-<h2 >Projects & Repo's</h2>
+<h2 align="center" style="display: flex; align-items: center;">Projects & Repo's</h2>
 
 ## **Find Framework for LambdaTest Selenium Certification**
 
