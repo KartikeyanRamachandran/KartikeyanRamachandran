@@ -1,5 +1,5 @@
 <h1 align="center" style="display: flex; align-items: center;">
-    Hi,<img src="GIF/himinions.gif" width="50px" height="50px" style="vertical-align: middle;" align="center">I'm Karthikeyan R
+    **Hi**,<img src="GIF/robothi.gif" width="50px" height="50px" style="vertical-align: middle;" align="center">**I'm Karthikeyan R**
 </h1>
 
 
