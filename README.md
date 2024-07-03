@@ -9,19 +9,23 @@
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/karthikeyan-r-2542601b2/)
 
 <h2 >A little more about me...</h2>
-
-Name            = Karthikeyan R <br> 
-pronouns        = He | Him | His <br>
-Current Focus   = Automation Testing <br>
-
-Programming Skills        = [Java, JavaScript] <br>
-Automation Testing Tools  = [Selenium, Rest-Assured] <br>
-Testing Frameworks        = [TestNG, Cucumber] <be>
-
 <p>
-    I am a software automation tester with over 8 years of experience in the software testing industry with knowledge of manual and automation. <br>From this repository, you can find the selenium framework solution for some free certifications offered by LambdaTest. Also, I created few frameworks through which you can practice and learn more about the automation framework. <br>If you have any questions or need clarification on the LambdaTest certification or the framework, please reach me out on LinkedIn.
+    I'm Karthikeyan, a passionate and detail-oriented software tester with a keen eye for finding bugs and improving software quality. With 8+ years of experience in the field, I have a solid background in both manual and automated testing. 
+    <br>From this repository, you can find the selenium framework solution for some free certifications offered by LambdaTest. Also, I created few frameworks through which you can practice and learn more about the automation framework. <br>If you have any questions or need clarification on the LambdaTest certification or the framework, please reach me out on LinkedIn.
 </p>
 
+## **Skills**
+
+- **Automated Testing:**     Proficient in using tools like Selenium and Rest-Assured] to automate test scripts. <br>
+- **Programming Languages:** Strong knowledge of Java and JavaScript for writing test scripts. <br>
+- **Testing Frameworks:**    Experience with frameworks like TestNG and Cucumber to create well-structured test suites. <br>
+
+## **Interests**
+<p>
+    
+I am passionate about learning new testing methodologies, staying updated with the latest trends in software testing, and contributing to open-source projects. In my free time, I enjoy exploring new technologies, reading tech blogs, and participating in testing communities.
+
+</p>
 <!--
 ## **Find Automation Testing Projects for Your Practice**
 
