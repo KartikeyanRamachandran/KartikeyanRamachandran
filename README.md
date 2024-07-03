@@ -1,4 +1,4 @@
-_<h1 align="center" style="display: flex; align-items: center;">
+<h1 align="center" style="display: flex; align-items: center;">
     Hi,<img src="GIF/robothi.gif" width="50px" height="50px" style="vertical-align: middle;" align="center">I'm Karthikeyan Ramachandran
 </h1>
 
@@ -22,3 +22,5 @@ Testing Frameworks        = [TestNG, Cucumber] <br>
 
 ## **Find Automation Testing Projects for LambdaTest Selenium Certification**
 
+1.LambdaTest_Selenium101 <br>
+2.Selenium_Advanced_LambdaTest <br>
