@@ -22,8 +22,12 @@ Testing Frameworks        = [TestNG, Cucumber] <be>
     I am a software automation tester with over 8 years of experience in the software testing industry with knowledge of manual and automation. <br>From this repository, you can find the selenium framework solution for some free certifications offered by LambdaTest. Also, I created few frameworks through which you can practice and learn more about the automation framework. <br>If you have any questions or need clarification on the LambdaTest certification or the framework, please reach me out on LinkedIn.
 </p>
 
+<!--
+## **Find Automation Testing Projects for Your Practice**
 
-## **Find Automation Testing Projects for LambdaTest Selenium Certification**
+-->
+
+## **Find Framework for LambdaTest Selenium Certification**
 
 1.LambdaTest_Selenium101 <br>
 2.Selenium_Advanced_LambdaTest <br>
