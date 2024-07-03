@@ -11,8 +11,6 @@
 <h2 >A little more about me...</h2>
 <p>
     I'm Karthikeyan, a passionate and detail-oriented software tester with a keen eye for finding bugs and improving software quality. With 8+ years of experience in the field, I have a solid background in both manual and automated testing. 
-    <br>From this repository, you can find the selenium framework solution for some free certifications offered by LambdaTest. Also, I created few frameworks through which you can practice and learn more about the automation framework. <br>If you have any questions or need clarification on the LambdaTest certification or the framework, please reach me out on LinkedIn.
-</p>
 
 ## **Skills**
 
@@ -26,10 +24,18 @@
 I am passionate about learning new testing methodologies, staying updated with the latest trends in software testing, and contributing to open-source projects. In my free time, I enjoy exploring new technologies, reading tech blogs, and participating in testing communities.
 
 </p>
+
+## **Use of this Account**
+
+<br>From this Account, you can find the selenium framework solution for some free certifications offered by LambdaTest. Also, I created few frameworks through which you can practice and learn more about the automation framework. <br>If you have any questions or need clarification on the LambdaTest certification or the framework, please reach me out on LinkedIn.
+</p>
+
 <!--
 ## **Find Automation Testing Projects for Your Practice**
 
 -->
+
+<h2 >Projects & Repo's</h2>
 
 ## **Find Framework for LambdaTest Selenium Certification**
 
