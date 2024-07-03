@@ -9,7 +9,7 @@ _<h1 align="center" style="display: flex; align-items: center;">
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/karthikeyan-r-2542601b2/)
 
 <h2 >
-    <img src="GIF/dossier.gif" width="45px" height="45px" style="vertical-align: middle;" align="center">A little more about me...
+<img src="GIF/dossier.gif" width="45px" height="45px" style="vertical-align: middle;" align="center">A little more about me...
 </h2>
 
 Name            = Karthikeyan R <br> 
