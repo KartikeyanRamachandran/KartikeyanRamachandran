@@ -34,12 +34,11 @@ I am passionate about learning new testing methodologies, staying updated with t
 
 <h2 align="center" style="display: flex; align-items: center;">Projects & Repository </h2>
 
-## **Find Framework for LambdaTest Selenium Certification**
-
-
 ## **Find Automation Testing Projects for Your Practice**
 
 <p align="center">Repository under review, soon it will get published if the review done </p>
+
+## **Find Framework for LambdaTest Selenium Certification**
 
 - [LambdaTest_Selenium_101](https://github.com/KartikeyanRamachandran/LambdaTest_Selenium101) - This repository has the solution for LambdaTest Selenium 101 certification. This solution was designed in Selenium with Java, and TestNG was used to manage the test cases. Page object model implemented with this framework to manage the web elements. Execution performed through LambdaTest Grid. <br> <br>
 - [LambdaTest_Selenium Advanced](https://github.com/KartikeyanRamachandran/Selenium_Advanced_LambdaTest) - This repository has the solution for LambdaTest Selenium advance certification. This was designed in Selenium with Java, and TestNG was used to manage the test cases. Execution performed through LambdaTest Grid.<br> <br> 
