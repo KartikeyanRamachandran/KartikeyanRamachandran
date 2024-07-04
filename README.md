@@ -41,5 +41,5 @@ I am passionate about learning new testing methodologies, staying updated with t
 
 -->
 
-- LambdaTest_Selenium101 - This repository has the solution framework for LambdaTest Selenium 101. This solution was designed in Selenium with Java, and TestNG used to manage the test cases. Implemented Page object model to handle the web elements. Execution performed on LambdaTest Grid. Click here to see the Framework. [GitHub](https://github.com/KartikeyanRamachandran/LambdaTest_Selenium101)  <br>
+- [LambdaTest_Selenium101] (https://github.com/KartikeyanRamachandran/LambdaTest_Selenium101) - This repository has the solution framework for LambdaTest Selenium 101. This solution was designed in Selenium with Java, and TestNG used to manage the test cases. Implemented Page object model to handle the web elements. Execution performed through LambdaTest Grid. Click here to see the Framework. <br>
 - Selenium_Advanced_LambdaTest <br>
