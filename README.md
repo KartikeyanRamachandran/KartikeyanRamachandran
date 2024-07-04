@@ -36,7 +36,7 @@ I am passionate about learning new testing methodologies, staying updated with t
 
 ## **Find Automation Testing Projects for Your Practice**
 
-<p align="center">Repository under review, soon it will get published if the review done </p>
+<p align="center">This Repository is in review, soon it will get published </p>
 
 ## **Find Framework for LambdaTest Selenium Certification**
 
