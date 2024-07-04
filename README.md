@@ -10,7 +10,7 @@
 
 <h2 >A little more about me...</h2>
 <p>
-    I'm Karthikeyan, a passionate and detail-oriented software tester with a keen eye for finding bugs and improving software quality. With 8+ years of experience in the field, I have a solid background in both manual and automated testing. 
+    A passionate and detail-oriented software tester with a keen eye for finding bugs and improving software quality. With 8+ years of experience in the field, I have a solid background in both manual and automated testing. 
 
 ## **Skills**
 
