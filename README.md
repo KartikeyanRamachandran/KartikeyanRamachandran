@@ -14,7 +14,7 @@
 
 ## **Skills**
 
-- **Automated Testing:**     Proficient in using tools like Selenium and Rest-Assured] to automate test scripts. <br>
+- **Automated Testing:**     Proficient in using tools like Selenium and Rest-Assured to automate test scripts. <br>
 - **Programming Languages:** Strong knowledge of Java and JavaScript for writing test scripts. <br>
 - **Testing Frameworks:**    Experience with frameworks like TestNG and Cucumber to create well-structured test suites. <br>
 
